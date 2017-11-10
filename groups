@@ -3,3 +3,4 @@
 global:Change-Owner	Change Owner
 user:rhos-ci       	user/RHOS CI (rhos-ci)
 user:ssbarnea      	user/Sorin Sbarnea (ssbarnea)
+group:github/rhos-infra	github/rhos-infra
